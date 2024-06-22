@@ -24,6 +24,336 @@ VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 华丽翡翠,http://php.jdshipin.com:8880/smt.php?id=Wlt
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+
+
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+北京市鹏博士,#genre#
+CCTV1综合HD,http://124.205.11.246:91/live/CCTV1hd-8M/live.m3u8
+CCTV2财经HD,http://124.205.11.246:91/live/CCTV2hd-8M/live.m3u8
+CCTV3综艺HD,http://124.205.11.246:91/live/CCTV3hd-8M/live.m3u8
+CCTV4中文国际HD,http://124.205.11.246:91/live/CCTV4hd-8M/live.m3u8
+CCTV5体育HD,http://124.205.11.246:91/live/CCTV5hd-8M/live.m3u8
+CCTV5+体育赛事HD,http://124.205.11.246:91/live/CCTV5+hd-8M/live.m3u8
+CCTV6电影HD,http://124.205.11.246:91/live/CCTV6hd-8M/live.m3u8
+CCTV7国防军事HD,http://124.205.11.246:91/live/CCTV7hd-8M/live.m3u8
+CCTV8电视剧HD,http://124.205.11.246:91/live/CCTV8hd-8M/live.m3u8
+CCTV9纪录HD,http://124.205.11.246:91/live/CCTV9hd-8M/live.m3u8
+CCTV10科教HD,http://124.205.11.246:91/live/CCTV10hd-8M/live.m3u8
+CCTV11戏曲HD,http://124.205.11.246:91/live/CCTV11hd-8M/live.m3u8
+CCTV12社会与法HD,http://124.205.11.246:91/live/CCTV12hd-8M/live.m3u8
+CCTV13新闻HD,http://124.205.11.246:91/live/CCTV13hd-8M/live.m3u8
+CCTV14少儿HD,http://124.205.11.246:91/live/CCTV14hd-8M/live.m3u8
+CCTV15音乐HD,http://124.205.11.246:91/live/CCTV15hd-8M/live.m3u8
+CCTV16奥林匹克HD,http://124.205.11.246:91/live/CCTV16hd-8M/live.m3u8
+CCTV17农业农村HD,http://124.205.11.246:91/live/CCTV17hd-8M/live.m3u8
+北京卫视,http://124.205.11.246:91/live/BJWShd-8M/live.m3u8
+天津卫视,http://124.205.11.246:91/live/TJWShd-8M/live.m3u8
+河北卫视,http://124.205.11.246:91/live/HEBhd-8M/live.m3u8
+山西卫视,http://124.205.11.246:91/live/SXWShd-8M/live.m3u8
+内蒙古卫视,http://124.205.11.246:91/live/NMGWShd-8M/live.m3u8
+辽宁卫视,http://124.205.11.246:91/live/LNWShd-8M/live.m3u8
+吉林卫视,http://124.205.11.246:91/live/JLWShd-8M/live.m3u8
+黑龙江卫视,http://124.205.11.246:91/live/HLJWShd-8M/live.m3u8
+东方卫视,http://124.205.11.246:91/live/DFWShd-8M/live.m3u8
+江苏卫视,http://124.205.11.246:91/live/JSWShd-8M/live.m3u8
+浙江卫视,http://124.205.11.246:91/live/ZJWShd-8M/live.m3u8
+安徽卫视,http://124.205.11.246:91/live/AHWShd-8M/live.m3u8
+东南卫视,http://124.205.11.246:91/live/DNWShd-8M/live.m3u8
+江西卫视,http://124.205.11.246:91/live/JXWShd-8M/live.m3u8
+山东卫视,http://124.205.11.246:91/live/SDWShd-8M/live.m3u8
+河南卫视,http://124.205.11.246:91/live/HENANWShd-8M/live.m3u8
+湖北卫视,http://124.205.11.246:91/live/HBWShd-8M/live.m3u8
+湖南卫视,http://124.205.11.246:91/live/HUNANWShd-8M/live.m3u8
+广东卫视,http://124.205.11.246:91/live/GDWShd-8M/live.m3u8
+广西卫视,http://124.205.11.246:91/live/GXWShd-8M/live.m3u8
+海南卫视,http://124.205.11.246:91/live/HANWShd-8M/live.m3u8
+重庆卫视,http://124.205.11.246:91/live/CQWShd-8M/live.m3u8
+四川卫视,http://124.205.11.246:91/live/SCWShd-8M/live.m3u8
+贵州卫视,http://124.205.11.246:91/live/GZWShd-8M/live.m3u8
+云南卫视,http://124.205.11.246:91/live/YNWShd-4M/live.m3u8
+西藏卫视,http://124.205.11.246:91/live/XZWShd-8M/live.m3u8
+陕西卫视,http://124.205.11.246:91/live/SXWShd-8M/live.m3u8
+甘肃卫视,http://124.205.11.246:91/live/GSWShd-8M/live.m3u8
+青海卫视,http://124.205.11.246:91/live/QHWShd-8M/live.m3u8
+宁夏卫视,http://124.205.11.246:91/live/NXWShd-8M/live.m3u8
+新疆卫视,http://124.205.11.246:91/live/XJWShd-8M/live.m3u8
+延边卫视,http://124.205.11.246:91/live/YBWShd-8M/live.m3u8
+海峡卫视,http://124.205.11.246:91/live/HXWShd-8M/live.m3u8
+厦门卫视,http://124.205.11.246:91/live/XMWShd-8M/live.m3u8
+大湾区卫视,http://124.205.11.246:91/live/WQWShd-8M/live.m3u8
+深圳卫视,http://124.205.11.246:91/live/SZWShd-8M/live.m3u8
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+测试,#genre#
+1905电影,http://01e117.netsite.cc/proxy/1747360543/1747360543.m3u8
+CCTV-1,http://01e117.netsite.cc/proxy/1964731068/1964731068.m3u8
+CCTV-2,http://01e117.netsite.cc/proxy/1486446687/1486446687.m3u8
+CCTV-3,http://01e117.netsite.cc/proxy/781829366/781829366.m3u8
+CCTV-4,http://01e117.netsite.cc/proxy/488588922/488588922.m3u8
+CCTV-4k,http://01e117.netsite.cc/proxy/968404657/968404657.m3u8
+CCTV-5,http://01e117.netsite.cc/proxy/1233541493/1233541493.m3u8
+CCTV-5+,http://01e117.netsite.cc/proxy/1327890911/1327890911.m3u8
+CCTV-6,http://01e117.netsite.cc/proxy/1275265590/1275265590.m3u8
+CCTV-7,http://01e117.netsite.cc/proxy/220822188/220822188.m3u8
+CCTV-8,http://01e117.netsite.cc/proxy/366510833/366510833.m3u8
+CCTV-9,http://01e117.netsite.cc/proxy/1618579230/1618579230.m3u8
+CCTV-10,http://01e117.netsite.cc/proxy/1288910059/1288910059.m3u8
+CCTV-11,http://01e117.netsite.cc/proxy/1263246901/1263246901.m3u8
+CCTV-12,http://01e117.netsite.cc/proxy/479563435/479563435.m3u8
+CCTV-13,http://01e117.netsite.cc/proxy/1100148851/1100148851.m3u8
+CCTV-14,http://01e117.netsite.cc/proxy/329783189/329783189.m3u8
+CCTV-15,http://01e117.netsite.cc/proxy/518544399/518544399.m3u8
+CCTV-16,http://01e117.netsite.cc/proxy/1213181202/1213181202.m3u8
+CCTV-17,http://01e117.netsite.cc/proxy/642661480/642661480.m3u8
+CGTN阿拉伯语频道,http://01e117.netsite.cc/proxy/1911119040/1911119040.m3u8
+CGTN俄语频道,http://01e117.netsite.cc/proxy/1081207990/1081207990.m3u8
+CGTN法语频道,http://01e117.netsite.cc/proxy/1237082374/1237082374.m3u8
+CGTN外语记录频道,http://01e117.netsite.cc/proxy/97135501/97135501.m3u8
+CGTN西班牙语频道,http://01e117.netsite.cc/proxy/657032256/657032256.m3u8
+安徽黄山黟县,http://01e117.netsite.cc/proxy/1759244982/1759244982.m3u8
+安徽卫视,http://01e117.netsite.cc/proxy/1817490980/1817490980.m3u8
+北京昌平居庸关长城,http://01e117.netsite.cc/proxy/1214950026/1214950026.m3u8
+北京国际雕塑公园,http://01e117.netsite.cc/proxy/1070308851/1070308851.m3u8
+北京怀柔黄花城水长城,http://01e117.netsite.cc/proxy/1266694830/1266694830.m3u8
+北京密云古北水镇,http://01e117.netsite.cc/proxy/698677872/698677872.m3u8
+北京密云司马台长城,http://01e117.netsite.cc/proxy/771753543/771753543.m3u8
+北京鸟巢和水立方,http://01e117.netsite.cc/proxy/2139720500/2139720500.m3u8
+北京卫视,http://01e117.netsite.cc/proxy/105545939/105545939.m3u8
+茶频道,http://01e117.netsite.cc/proxy/1322311734/1322311734.m3u8
+常德新闻综合频道,http://01e117.netsite.cc/proxy/1299968106/1299968106.m3u8
+常州公共频道,http://01e117.netsite.cc/proxy/1874518057/1874518057.m3u8
+常州生活频道,http://01e117.netsite.cc/proxy/692207623/692207623.m3u8
+常州新闻综合频道,http://01e117.netsite.cc/proxy/1762429386/1762429386.m3u8
+电视剧,http://01e117.netsite.cc/proxy/649200103/649200103.m3u8
+东南卫视,http://01e117.netsite.cc/proxy/969538215/969538215.m3u8
+凤凰卫视,http://01e117.netsite.cc/proxy/1650326537/1650326537.m3u8
+凤凰中文,http://01e117.netsite.cc/proxy/1846789161/1846789161.m3u8
+福建电视剧,http://01e117.netsite.cc/proxy/1180178372/1180178372.m3u8
+福建东南卫视,http://01e117.netsite.cc/proxy/1989099435/1989099435.m3u8
+福建公共频道,http://01e117.netsite.cc/proxy/639164858/639164858.m3u8
+福建海峡卫视,http://01e117.netsite.cc/proxy/1400186150/1400186150.m3u8
+福建经视频道,http://01e117.netsite.cc/proxy/561753807/561753807.m3u8
+福建旅游频道,http://01e117.netsite.cc/proxy/1739179131/1739179131.m3u8
+福建少儿频道,http://01e117.netsite.cc/proxy/253585251/253585251.m3u8
+福建体育频道,http://01e117.netsite.cc/proxy/1771344389/1771344389.m3u8
+福建新闻频道,http://01e117.netsite.cc/proxy/199601741/199601741.m3u8
+福建综合频道,http://01e117.netsite.cc/proxy/269896449/269896449.m3u8
+甘肃都市频道,http://01e117.netsite.cc/proxy/1238488351/1238488351.m3u8
+甘肃公共应急,http://01e117.netsite.cc/proxy/1726841360/1726841360.m3u8
+甘肃经济频道,http://01e117.netsite.cc/proxy/1373372389/1373372389.m3u8
+甘肃少儿频道,http://01e117.netsite.cc/proxy/1645236406/1645236406.m3u8
+甘肃卫视,http://01e117.netsite.cc/proxy/1209404373/1209404373.m3u8
+甘肃文化影视,http://01e117.netsite.cc/proxy/1573084994/1573084994.m3u8
+高邮一套新闻综合频道,http://01e117.netsite.cc/proxy/145384285/145384285.m3u8
+广东卫视,http://01e117.netsite.cc/proxy/1094148202/1094148202.m3u8
+广西卫视,http://01e117.netsite.cc/proxy/1770922842/1770922842.m3u8
+贵州大众生活,http://01e117.netsite.cc/proxy/1102719883/1102719883.m3u8
+贵州公共频道,http://01e117.netsite.cc/proxy/730375068/730375068.m3u8
+贵州科教健康,http://01e117.netsite.cc/proxy/1162947109/1162947109.m3u8
+贵州生态乡村,http://01e117.netsite.cc/proxy/2087588014/2087588014.m3u8
+贵州卫视,http://01e117.netsite.cc/proxy/1478277200/1478277200.m3u8
+贵州卫视,http://01e117.netsite.cc/proxy/1494390345/1494390345.m3u8
+贵州卫视,http://01e117.netsite.cc/proxy/344811278/344811278.m3u8
+贵州移动电视频道,http://01e117.netsite.cc/proxy/1401142653/1401142653.m3u8
+贵州影视文艺,http://01e117.netsite.cc/proxy/277498502/277498502.m3u8
+国际频道,http://01e117.netsite.cc/proxy/1627651873/1627651873.m3u8
+哈萨克语新闻综合频道,http://01e117.netsite.cc/proxy/1017241472/1017241472.m3u8
+哈萨克语综艺频道,http://01e117.netsite.cc/proxy/1914541671/1914541671.m3u8
+海安新闻综合频道,http://01e117.netsite.cc/proxy/1714707715/1714707715.m3u8
+海南卫视,http://01e117.netsite.cc/proxy/1868988087/1868988087.m3u8
+海南卫视,http://01e117.netsite.cc/proxy/2019508840/2019508840.m3u8
+汉语经济生活频道,http://01e117.netsite.cc/proxy/43123930/43123930.m3u8
+汉语体育健康频道,http://01e117.netsite.cc/proxy/161007620/161007620.m3u8
+汉语信息服务频道,http://01e117.netsite.cc/proxy/741753645/741753645.m3u8
+汉语综艺频道,http://01e117.netsite.cc/proxy/261541641/261541641.m3u8
+河北都市,http://01e117.netsite.cc/proxy/1382613512/1382613512.m3u8
+河北公共,http://01e117.netsite.cc/proxy/1380350629/1380350629.m3u8
+河北经济生活,http://01e117.netsite.cc/proxy/839342764/839342764.m3u8
+河北农民频道,http://01e117.netsite.cc/proxy/1382120425/1382120425.m3u8
+河北三佳购物,http://01e117.netsite.cc/proxy/1490274429/1490274429.m3u8
+河北少儿科教,http://01e117.netsite.cc/proxy/177438581/177438581.m3u8
+河北卫视,http://01e117.netsite.cc/proxy/1385861493/1385861493.m3u8
+河北影视剧,http://01e117.netsite.cc/proxy/105462334/105462334.m3u8
+河南电视剧频道,http://01e117.netsite.cc/proxy/493614280/493614280.m3u8
+河南都市频道,http://01e117.netsite.cc/proxy/1492902938/1492902938.m3u8
+河南法制频道,http://01e117.netsite.cc/proxy/1472420660/1472420660.m3u8
+河南公共频道,http://01e117.netsite.cc/proxy/1779518772/1779518772.m3u8
+河南国际频道,http://01e117.netsite.cc/proxy/114531055/114531055.m3u8
+河南欢腾购物频道,http://01e117.netsite.cc/proxy/933026680/933026680.m3u8
+河南梨园频道,http://01e117.netsite.cc/proxy/1836590379/1836590379.m3u8
+河南洛阳新闻综合频道,http://01e117.netsite.cc/proxy/95478034/95478034.m3u8
+河南民生频道,http://01e117.netsite.cc/proxy/1346087362/1346087362.m3u8
+河南晴彩中原频道,http://01e117.netsite.cc/proxy/437233355/437233355.m3u8
+河南卫视,http://01e117.netsite.cc/proxy/1919483832/1919483832.m3u8
+河南文物宝库频道,http://01e117.netsite.cc/proxy/908742171/908742171.m3u8
+河南武术世界,http://01e117.netsite.cc/proxy/503866921/503866921.m3u8
+河南乡村频道,http://01e117.netsite.cc/proxy/1890775902/1890775902.m3u8
+河南新闻频道,http://01e117.netsite.cc/proxy/1692770748/1692770748.m3u8
+河南移动戏曲频道,http://01e117.netsite.cc/proxy/606632094/606632094.m3u8
+黑龙江卫视,http://01e117.netsite.cc/proxy/1993445467/1993445467.m3u8
+黑龙江卫视,http://01e117.netsite.cc/proxy/813712546/813712546.m3u8
+湖北卫视,http://01e117.netsite.cc/proxy/1877417018/1877417018.m3u8
+湖南爱晚,http://01e117.netsite.cc/proxy/1916495164/1916495164.m3u8
+湖南都市,http://01e117.netsite.cc/proxy/1116439121/1116439121.m3u8
+湖南经视,http://01e117.netsite.cc/proxy/1075467511/1075467511.m3u8
+湖南沙洲瑶族村,http://01e117.netsite.cc/proxy/1641373861/1641373861.m3u8
+湖南邵阳崀山风景名胜区,http://01e117.netsite.cc/proxy/2086847518/2086847518.m3u8
+湖南卫视,http://01e117.netsite.cc/proxy/1187608335/1187608335.m3u8
+湖南湘西凤凰古城,http://01e117.netsite.cc/proxy/1244287653/1244287653.m3u8
+湖南娱乐,http://01e117.netsite.cc/proxy/884645401/884645401.m3u8
+湖南张家界大峡谷景区,http://01e117.netsite.cc/proxy/848407143/848407143.m3u8
+湖南张家界天门山景区,http://01e117.netsite.cc/proxy/1114678886/1114678886.m3u8
+湖南张家界武陵源景区,http://01e117.netsite.cc/proxy/762554012/762554012.m3u8
+湖南长沙果园镇田汉文化园,http://01e117.netsite.cc/proxy/1933462135/1933462135.m3u8
+吉林白城新闻综合,http://01e117.netsite.cc/proxy/1773515618/1773515618.m3u8
+吉林白山电视台,http://01e117.netsite.cc/proxy/583838447/583838447.m3u8
+吉林都市频道,http://01e117.netsite.cc/proxy/644013828/644013828.m3u8
+吉林公共频道,http://01e117.netsite.cc/proxy/575056223/575056223.m3u8
+吉林家有购物频道,http://01e117.netsite.cc/proxy/1593753300/1593753300.m3u8
+吉林辽源电视台,http://01e117.netsite.cc/proxy/1873892625/1873892625.m3u8
+吉林生活频道,http://01e117.netsite.cc/proxy/448992852/448992852.m3u8
+吉林四平电视台,http://01e117.netsite.cc/proxy/2096784785/2096784785.m3u8
+吉林松原电视台,http://01e117.netsite.cc/proxy/899644185/899644185.m3u8
+吉林通化电视台,http://01e117.netsite.cc/proxy/254744731/254744731.m3u8
+吉林卫视,http://01e117.netsite.cc/proxy/610385362/610385362.m3u8
+吉林卫视高清,http://01e117.netsite.cc/proxy/1831443675/1831443675.m3u8
+吉林戏曲频道,http://01e117.netsite.cc/proxy/2063310884/2063310884.m3u8
+吉林乡村频道,http://01e117.netsite.cc/proxy/1927078122/1927078122.m3u8
+吉林新闻综合,http://01e117.netsite.cc/proxy/1455835602/1455835602.m3u8
+吉林延边朝鲜语综合,http://01e117.netsite.cc/proxy/127471106/127471106.m3u8
+吉林延边汉语综合,http://01e117.netsite.cc/proxy/461796199/461796199.m3u8
+吉林延边卫视,http://01e117.netsite.cc/proxy/454807708/454807708.m3u8
+吉林影视频道,http://01e117.netsite.cc/proxy/1484332533/1484332533.m3u8
+吉林综艺文化,http://01e117.netsite.cc/proxy/496824256/496824256.m3u8
+江苏南京玄武湖,http://01e117.netsite.cc/proxy/1985889373/1985889373.m3u8
+江苏南京永宁张圩花海,http://01e117.netsite.cc/proxy/25264739/25264739.m3u8
+江苏南京长江大桥,http://01e117.netsite.cc/proxy/1764141811/1764141811.m3u8
+江苏卫视,http://01e117.netsite.cc/proxy/1924965376/1924965376.m3u8
+江苏无锡惠山二茅峰望锡城,http://01e117.netsite.cc/proxy/1877891602/1877891602.m3u8
+江苏徐州之夜,http://01e117.netsite.cc/proxy/391073776/391073776.m3u8
+江西卫视,http://01e117.netsite.cc/proxy/1871199348/1871199348.m3u8
+金鹰纪实,http://01e117.netsite.cc/proxy/46690299/46690299.m3u8
+金鹰卡通,http://01e117.netsite.cc/proxy/1947104640/1947104640.m3u8
+快乐垂钓,http://01e117.netsite.cc/proxy/316113716/316113716.m3u8
+快乐购,http://01e117.netsite.cc/proxy/970312636/970312636.m3u8
+连云港公共频道,http://01e117.netsite.cc/proxy/1479045862/1479045862.m3u8
+连云港新闻综合频道,http://01e117.netsite.cc/proxy/1249456251/1249456251.m3u8
+涟水电视台综合频道,http://01e117.netsite.cc/proxy/1977735434/1977735434.m3u8
+辽宁卫视,http://01e117.netsite.cc/proxy/2131459290/2131459290.m3u8
+咪咕体育,http://01e117.netsite.cc/proxy/1168525477/1168525477.m3u8
+南京白鹭洲公园,http://01e117.netsite.cc/proxy/320590871/320590871.m3u8
+南京百家湖,http://01e117.netsite.cc/proxy/179633244/179633244.m3u8
+南京北极阁,http://01e117.netsite.cc/proxy/188239043/188239043.m3u8
+南京鼓楼广场,http://01e117.netsite.cc/proxy/960879458/960879458.m3u8
+南京黄龙砚,http://01e117.netsite.cc/proxy/169184085/169184085.m3u8
+南京矿坑公园,http://01e117.netsite.cc/proxy/1263482067/1263482067.m3u8
+南京南站,http://01e117.netsite.cc/proxy/2072143452/2072143452.m3u8
+南京栖霞山,http://01e117.netsite.cc/proxy/182710545/182710545.m3u8
+南京情侣园,http://01e117.netsite.cc/proxy/185079179/185079179.m3u8
+南京三汊河,http://01e117.netsite.cc/proxy/189455176/189455176.m3u8
+南京五马渡,http://01e117.netsite.cc/proxy/188955121/188955121.m3u8
+南京新街口,http://01e117.netsite.cc/proxy/183420062/183420062.m3u8
+南京眼,http://01e117.netsite.cc/proxy/1734263806/1734263806.m3u8
+南京长江大桥,http://01e117.netsite.cc/proxy/1033254824/1033254824.m3u8
+南京紫峰眺望,http://01e117.netsite.cc/proxy/1222351744/1222351744.m3u8
+南京紫金山,http://01e117.netsite.cc/proxy/177566095/177566095.m3u8
+内蒙古经济生活,http://01e117.netsite.cc/proxy/1043888416/1043888416.m3u8
+内蒙古蒙古语文化,http://01e117.netsite.cc/proxy/818789140/818789140.m3u8
+内蒙古农牧频道,http://01e117.netsite.cc/proxy/700721138/700721138.m3u8
+内蒙古少儿频道,http://01e117.netsite.cc/proxy/772314677/772314677.m3u8
+内蒙古卫视,http://01e117.netsite.cc/proxy/1149350272/1149350272.m3u8
+内蒙古文化娱乐,http://01e117.netsite.cc/proxy/844409203/844409203.m3u8
+内蒙古新闻综合,http://01e117.netsite.cc/proxy/862381212/862381212.m3u8
+宁夏卫视,http://01e117.netsite.cc/proxy/1558349983/1558349983.m3u8
+沛县新闻综合,http://01e117.netsite.cc/proxy/2058383266/2058383266.m3u8
+青海卫视,http://01e117.netsite.cc/proxy/1152127449/1152127449.m3u8
+三沙卫视,http://01e117.netsite.cc/proxy/1337100319/1337100319.m3u8
+山东卫视,http://01e117.netsite.cc/proxy/1763730718/1763730718.m3u8
+山西卫视,http://01e117.netsite.cc/proxy/825435414/825435414.m3u8
+陕西都市青春,http://01e117.netsite.cc/proxy/391844543/391844543.m3u8
+陕西公共频道,http://01e117.netsite.cc/proxy/1782806707/1782806707.m3u8
+陕西购物,http://01e117.netsite.cc/proxy/1183146985/1183146985.m3u8
+陕西农林,http://01e117.netsite.cc/proxy/1359389546/1359389546.m3u8
+陕西生活频道,http://01e117.netsite.cc/proxy/286895848/286895848.m3u8
+陕西体育休闲,http://01e117.netsite.cc/proxy/742107634/742107634.m3u8
+陕西卫视,http://01e117.netsite.cc/proxy/917851306/917851306.m3u8
+陕西新闻资讯,http://01e117.netsite.cc/proxy/1595881474/1595881474.m3u8
+上海第一财经,http://01e117.netsite.cc/proxy/1946402424/1946402424.m3u8
+上海点掌财经,http://01e117.netsite.cc/proxy/1577752441/1577752441.m3u8
+上海纪实人文,http://01e117.netsite.cc/proxy/1975883896/1975883896.m3u8
+上海南浦大桥,http://01e117.netsite.cc/proxy/1514561649/1514561649.m3u8
+上海外语频道,http://01e117.netsite.cc/proxy/1701776112/1701776112.m3u8
+上海新闻综合,http://01e117.netsite.cc/proxy/1800137038/1800137038.m3u8
+深圳卫视,http://01e117.netsite.cc/proxy/1210483979/1210483979.m3u8
+沭阳综合频道,http://01e117.netsite.cc/proxy/1424907816/1424907816.m3u8
+四川阿坝州黄龙五彩池,http://01e117.netsite.cc/proxy/411064268/411064268.m3u8
+四川阿坝州汶川映秀新城,http://01e117.netsite.cc/proxy/369813965/369813965.m3u8
+四川成都安顺廊桥,http://01e117.netsite.cc/proxy/1937762418/1937762418.m3u8
+四川成都春熙路,http://01e117.netsite.cc/proxy/614090729/614090729.m3u8
+四川成都东安湖体育公园,http://01e117.netsite.cc/proxy/648790008/648790008.m3u8
+四川成都天府熊猫塔,http://01e117.netsite.cc/proxy/1936214178/1936214178.m3u8
+四川甘孜州石渠县,http://01e117.netsite.cc/proxy/682530961/682530961.m3u8
+四川观察,http://01e117.netsite.cc/proxy/2061240764/2061240764.m3u8
+四川乐山市峨眉山风景区,http://01e117.netsite.cc/proxy/1575586364/1575586364.m3u8
+四川邛崃天台山,http://01e117.netsite.cc/proxy/690671060/690671060.m3u8
+四川卫视,http://01e117.netsite.cc/proxy/1727775864/1727775864.m3u8
+四川西昌市邛海景区,http://01e117.netsite.cc/proxy/239112006/239112006.m3u8
+泗洪新闻综合频道,http://01e117.netsite.cc/proxy/39753847/39753847.m3u8
+泗阳资讯频道,http://01e117.netsite.cc/proxy/1545407523/1545407523.m3u8
+泗阳综合频道,http://01e117.netsite.cc/proxy/642523244/642523244.m3u8
+睢宁三农频道,http://01e117.netsite.cc/proxy/1048559039/1048559039.m3u8
+睢宁生活教育频道,http://01e117.netsite.cc/proxy/932971465/932971465.m3u8
+睢宁综合频道,http://01e117.netsite.cc/proxy/791997735/791997735.m3u8
+维吾尔语经济生活频道,http://01e117.netsite.cc/proxy/657274245/657274245.m3u8
+维吾尔语新闻综合频道,http://01e117.netsite.cc/proxy/1972456959/1972456959.m3u8
+维吾尔语影视频道,http://01e117.netsite.cc/proxy/132921121/132921121.m3u8
+无锡都市资讯频道,http://01e117.netsite.cc/proxy/1260824748/1260824748.m3u8
+无锡经济频道,http://01e117.netsite.cc/proxy/326472624/326472624.m3u8
+无锡生活频道,http://01e117.netsite.cc/proxy/995802232/995802232.m3u8
+无锡新闻综合频道,http://01e117.netsite.cc/proxy/1808503557/1808503557.m3u8
+无锡娱乐频道,http://01e117.netsite.cc/proxy/461270403/461270403.m3u8
+西藏拉萨布达拉宫,http://01e117.netsite.cc/proxy/800329695/800329695.m3u8
+西藏林芝米林岷山彩门民宿,http://01e117.netsite.cc/proxy/751076408/751076408.m3u8
+西藏林芝岷山错高民宿,http://01e117.netsite.cc/proxy/680426319/680426319.m3u8
+西藏林芝墨脱县,http://01e117.netsite.cc/proxy/476608588/476608588.m3u8
+西藏日喀则珠穆朗玛峰,http://01e117.netsite.cc/proxy/209923082/209923082.m3u8
+先锋乒羽,http://01e117.netsite.cc/proxy/1789306185/1789306185.m3u8
+新疆兵团卫视,http://01e117.netsite.cc/proxy/1502802665/1502802665.m3u8
+新疆昌吉州天山天池风景区,http://01e117.netsite.cc/proxy/1482666116/1482666116.m3u8
+新疆喀什达瓦昆景区,http://01e117.netsite.cc/proxy/404107611/404107611.m3u8
+新疆少儿频道,http://01e117.netsite.cc/proxy/2128293013/2128293013.m3u8
+新疆卫视,http://01e117.netsite.cc/proxy/1423426614/1423426614.m3u8
+新疆伊犁州蝶湖公园,http://01e117.netsite.cc/proxy/132379804/132379804.m3u8
+扬州城市频道,http://01e117.netsite.cc/proxy/1097047630/1097047630.m3u8
+扬州邗江频道,http://01e117.netsite.cc/proxy/1768394281/1768394281.m3u8
+扬州新闻频道,http://01e117.netsite.cc/proxy/454285884/454285884.m3u8
+云南卫视,http://01e117.netsite.cc/proxy/1057712184/1057712184.m3u8
+长沙女性频道,http://01e117.netsite.cc/proxy/1812024686/1812024686.m3u8
+长沙新闻综合,http://01e117.netsite.cc/proxy/1524274658/1524274658.m3u8
+长沙政法频道,http://01e117.netsite.cc/proxy/298063278/298063278.m3u8
+浙江国际,http://01e117.netsite.cc/proxy/480758982/480758982.m3u8
+浙江杭州千岛湖,http://01e117.netsite.cc/proxy/1683811739/1683811739.m3u8
+浙江好易购,http://01e117.netsite.cc/proxy/2047524408/2047524408.m3u8
+浙江嘉兴乌镇,http://01e117.netsite.cc/proxy/463129046/463129046.m3u8
+浙江教科影视,http://01e117.netsite.cc/proxy/63422608/63422608.m3u8
+浙江教育科技频道,http://01e117.netsite.cc/proxy/1253636999/1253636999.m3u8
+浙江经济生活,http://01e117.netsite.cc/proxy/1957918007/1957918007.m3u8
+浙江民生休闲,http://01e117.netsite.cc/proxy/184155918/184155918.m3u8
+浙江钱江生活,http://01e117.netsite.cc/proxy/1237073829/1237073829.m3u8
+浙江少儿频道,http://01e117.netsite.cc/proxy/761839305/761839305.m3u8
+浙江台州三门核电站,http://01e117.netsite.cc/proxy/1382819378/1382819378.m3u8
+浙江卫视,http://01e117.netsite.cc/proxy/1076829733/1076829733.m3u8
+浙江温州泰顺县廊桥文化园,http://01e117.netsite.cc/proxy/1144314894/1144314894.m3u8
+浙江新闻,http://01e117.netsite.cc/proxy/249206805/249206805.m3u8
+浙江之江记录,http://01e117.netsite.cc/proxy/147568391/147568391.m3u8
+浙江舟山东极岛,http://01e117.netsite.cc/proxy/1973269961/1973269961.m3u8
+浙江舟山嵊泗县中心渔港,http://01e117.netsite.cc/proxy/748822183/748822183.m3u8
+镇江二套社会民生频道,http://01e117.netsite.cc/proxy/1259661680/1259661680.m3u8
+重庆李子坝站,http://01e117.netsite.cc/proxy/1077381778/1077381778.m3u8
+重庆卫视,http://01e117.netsite.cc/proxy/1555601247/1555601247.m3u8
+重庆卫视,http://01e117.netsite.cc/proxy/2064842136/2064842136.m3u8
+重庆巫山长江大桥,http://01e117.netsite.cc/proxy/1215290450/1215290450.m3u8
+重庆巫山长江画卷,http://01e117.netsite.cc/proxy/923062896/923062896.m3u8
+重庆新闻,http://01e117.netsite.cc/proxy/1555453135/1555453135.m3u8
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
 IPV6直播源,#genre#
 CCTV-1,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?m3u8_level=2
@@ -470,783 +800,5 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 延边卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
-星视界直播源,#genre#
-CCTV1,https://histar.zapi.us.kg/?id=cctv1
-CCTV2,https://histar.zapi.us.kg/?id=cctv2
-CCTV3,https://histar.zapi.us.kg/?id=cctv3
-CCTV4,https://histar.zapi.us.kg/?id=cctv4
-CCTV5,https://histar.zapi.us.kg/?id=cctv5
-CCTV5+,https://histar.zapi.us.kg/?id=cctv5plus
-CCTV6,https://histar.zapi.us.kg/?id=cctv6
-CCTV7,https://histar.zapi.us.kg/?id=cctv7
-CCTV8,https://histar.zapi.us.kg/?id=cctv8
-CCTV9,https://histar.zapi.us.kg/?id=cctv9
-CCTV10,https://histar.zapi.us.kg/?id=cctv10
-CCTV11,https://histar.zapi.us.kg/?id=cctv11
-CCTV12,https://histar.zapi.us.kg/?id=cctv12
-CCTV13,https://histar.zapi.us.kg/?id=cctv13
-CCTV14,https://histar.zapi.us.kg/?id=cctv14
-CCTV15,https://histar.zapi.us.kg/?id=cctv15
-CCTV16,https://histar.zapi.us.kg/?id=cctv16
-CCTV17,https://histar.zapi.us.kg/?id=cctv17
-天映频道,https://histar.zapi.us.kg/?id=celestial
-Channel 5,https://histar.zapi.us.kg/?id=channel-5
-Channel 8,https://histar.zapi.us.kg/?id=channel8
-ChannelNewsAsia,https://histar.zapi.us.kg/?id=channelnewsasia
-Channel U,https://histar.zapi.us.kg/?id=channel-u
-CHC动作电影,https://histar.zapi.us.kg/?id=chc-dzdy
-CHC高清电影,https://histar.zapi.us.kg/?id=chc-gqdy
-CHC家庭影院,https://histar.zapi.us.kg/?id=chc-jtyy
-重庆卫视,https://histar.zapi.us.kg/?id=chongqing
-CI 罪案侦查频道,https://histar.zapi.us.kg/?id=ci
-Cinemax,https://histar.zapi.us.kg/?id=cinemax
-CM+,https://histar.zapi.us.kg/?id=cm-plus
-CNBC,https://histar.zapi.us.kg/?id=cnbc
-CN卡通,https://histar.zapi.us.kg/?id=cn-cartoon
-视纳华仁纪实频道,https://histar.zapi.us.kg/?id=cnex
-CNN,https://histar.zapi.us.kg/?id=cnn
-HLN,https://histar.zapi.us.kg/?id=cnn-hln
-CNN International,https://histar.zapi.us.kg/?id=cnn-international
-ColorsHindi,https://histar.zapi.us.kg/?id=colorshindi
-ColorsTamil,https://histar.zapi.us.kg/?id=colorstamil
-中天亚洲,https://histar.zapi.us.kg/?id=cti-asia
-中天新闻,https://histar.zapi.us.kg/?id=cti-news
-中天综合,https://histar.zapi.us.kg/?id=ctitv36
-中天娱乐,https://histar.zapi.us.kg/?id=cti-yule
-华视,https://histar.zapi.us.kg/?id=cts
-华视新闻,https://histar.zapi.us.kg/?id=cts-news
-中视,https://histar.zapi.us.kg/?id=ctv
-中视经典台,https://histar.zapi.us.kg/?id=ctv-classic
-中视新闻,https://histar.zapi.us.kg/?id=ctv-news
-重温经典,https://histar.zapi.us.kg/?id=cwjd
-大爱一台,https://histar.zapi.us.kg/?id=daai1
-大爱二台,https://histar.zapi.us.kg/?id=daai2
-达文西频道,https://histar.zapi.us.kg/?id=da-vinci
-DidikTV7,https://histar.zapi.us.kg/?id=didiktv7
-探索频道,https://histar.zapi.us.kg/?id=discovery
-探索亚洲频道,https://histar.zapi.us.kg/?id=discovery-asia
-探索科学频道,https://histar.zapi.us.kg/?id=discovery-sci
-迪士尼频道,https://histar.zapi.us.kg/?id=disney
-DMAX,https://histar.zapi.us.kg/?id=dmax
-东方卫视,https://histar.zapi.us.kg/?id=dongfang
-东南卫视,https://histar.zapi.us.kg/?id=dongnan
-DramaSangat,https://histar.zapi.us.kg/?id=dramasangat
-DreamWorks 梦工厂动画,https://histar.zapi.us.kg/?id=dreamworks
-DW 德国之声,https://histar.zapi.us.kg/?id=dw
-东森戏剧,https://histar.zapi.us.kg/?id=ebc-drama
-东森洋片,https://histar.zapi.us.kg/?id=ebc-emovie
-东森综合台,https://histar.zapi.us.kg/?id=ebc-ettv
-东森财经新闻,https://histar.zapi.us.kg/?id=ebc-finance
-东森电影,https://histar.zapi.us.kg/?id=ebc-movie
-东森新闻,https://histar.zapi.us.kg/?id=ebc-news
-东森超视,https://histar.zapi.us.kg/?id=ebc-super
-东森幼幼台,https://histar.zapi.us.kg/?id=ebc-yoyo
-DAZN 1,https://histar.zapi.us.kg/?id=eleven-sport1
-DAZN 2,https://histar.zapi.us.kg/?id=eleven-sport2
-ELTA 生活旅游台,https://histar.zapi.us.kg/?id=elta-lifetravel
-ELTA 体育-1,https://histar.zapi.us.kg/?id=elta-sport1
-ELTA 体育-2,https://histar.zapi.us.kg/?id=elta-sport2
-ELTA 体育-3,https://histar.zapi.us.kg/?id=elta-sport3
-ELTA体育4台,https://histar.zapi.us.kg/?id=elta-sport4
-ELTA 娱乐台,https://histar.zapi.us.kg/?id=elta-ylt
-ELTA综合台,https://histar.zapi.us.kg/?id=elta-zonghe
-ELTV生活英語台,https://histar.zapi.us.kg/?id=eltv
-年代新闻,https://histar.zapi.us.kg/?id=era-news
-ESPN,https://histar.zapi.us.kg/?id=espn
-ESPN 2,https://histar.zapi.us.kg/?id=espn2
-ESPN 3,https://histar.zapi.us.kg/?id=espn3
-ESPN 4,https://histar.zapi.us.kg/?id=espn4
-Euronews,https://histar.zapi.us.kg/?id=euronews
-Eurosports-1,https://histar.zapi.us.kg/?id=eurosports-1
-EYE 旅游台,https://histar.zapi.us.kg/?id=eye-travel
-新时代电视,https://histar.zapi.us.kg/?id=fairchildtv
-新时代电视二台,https://histar.zapi.us.kg/?id=fairchildtv2
-影迷数字电影台,https://histar.zapi.us.kg/?id=fans-cinema
-翡翠台,https://histar.zapi.us.kg/?id=feicui
-fun 探索娱乐台,https://histar.zapi.us.kg/?id=festival4k
-美食星球频道,https://histar.zapi.us.kg/?id=food-planet
-民视,https://histar.zapi.us.kg/?id=ftv
-民视影剧,https://histar.zapi.us.kg/?id=ftv-drama
-民视新闻台,https://histar.zapi.us.kg/?id=ftv-news
-民视第一台,https://histar.zapi.us.kg/?id=ftv-one
-民视综艺,https://histar.zapi.us.kg/?id=ftv-reality
-民视旅游,https://histar.zapi.us.kg/?id=ftv-travel
-民视台湾台,https://histar.zapi.us.kg/?id=ftv-tw
-富士电视台,https://histar.zapi.us.kg/?id=fujitv
-甘肃卫视,https://histar.zapi.us.kg/?id=gansu
-广东民生,https://histar.zapi.us.kg/?id=gdms
-广东少儿,https://histar.zapi.us.kg/?id=gdse
-广东体育,https://histar.zapi.us.kg/?id=gdty
-大湾区卫视,https://histar.zapi.us.kg/?id=gdwqws
-广东新闻,https://histar.zapi.us.kg/?id=gdxw
-广东影视,https://histar.zapi.us.kg/?id=gdys
-广东珠江,https://histar.zapi.us.kg/?id=gdzj
-Gem,https://histar.zapi.us.kg/?id=gem
-GINX Esports TV,https://histar.zapi.us.kg/?id=ginx-esports
-寰宇财经台,https://histar.zapi.us.kg/?id=global-finance
-寰宇新闻台,https://histar.zapi.us.kg/?id=global-news
-寰宇新闻台湾台,https://histar.zapi.us.kg/?id=global-news-tw
-GlobalTrekker,https://histar.zapi.us.kg/?id=globaltrekker
-TVB华剧台,https://histar.zapi.us.kg/?id=golden-chinese-drama
-TVB翡翠台,https://histar.zapi.us.kg/?id=golden-jade
-好消息,https://histar.zapi.us.kg/?id=goodtv
-八大综艺,https://histar.zapi.us.kg/?id=grt
-公视戏剧,https://histar.zapi.us.kg/?id=gsxj
-八大第一,https://histar.zapi.us.kg/?id=gtv27
-八大综合,https://histar.zapi.us.kg/?id=gtv28
-八大戏剧,https://histar.zapi.us.kg/?id=gtv-41
-八大娱乐,https://histar.zapi.us.kg/?id=gtv-86
-八大精彩台,https://histar.zapi.us.kg/?id=gtv-jct
-广东卫视,https://histar.zapi.us.kg/?id=guangdong
-广西卫视,https://histar.zapi.us.kg/?id=guangxi
-贵州卫视,https://histar.zapi.us.kg/?id=guizhou
-广州竞赛,https://histar.zapi.us.kg/?id=gzjs
-广州影视,https://histar.zapi.us.kg/?id=gzys
-广州综合,https://histar.zapi.us.kg/?id=gzzh
-海南卫视,https://histar.zapi.us.kg/?id=hainan
-客家电视台,https://histar.zapi.us.kg/?id=hakkatv
-HBO Family HD,https://histar.zapi.us.kg/?id=hbo-family
-HBO HD,https://histar.zapi.us.kg/?id=hbo-hd
-HBO Hits HD,https://histar.zapi.us.kg/?id=hbo-hits-hd
-HBO Signature HD,https://histar.zapi.us.kg/?id=hbo-signature
-河北卫视,https://histar.zapi.us.kg/?id=hebei
-黑龙江卫视,https://histar.zapi.us.kg/?id=heilongjiang
-河南卫视,https://histar.zapi.us.kg/?id=henan
-History 频道,https://histar.zapi.us.kg/?id=history
-History-2 频道,https://histar.zapi.us.kg/?id=history-2
-HITSMovies,https://histar.zapi.us.kg/?id=hitsmovies
-HKC 18台,https://histar.zapi.us.kg/?id=hkc18
-香港卫视,https://histar.zapi.us.kg/?id=hks
-黑龙江都市,https://histar.zapi.us.kg/?id=hljds
-河南梨园,https://histar.zapi.us.kg/?id=hnly
-好莱坞电影,https://histar.zapi.us.kg/?id=hollywood-movie
-HOY国际财经,https://histar.zapi.us.kg/?id=hoy-ibc
-HOY 资讯台,https://histar.zapi.us.kg/?id=hoy-info
-HOY TV,https://histar.zapi.us.kg/?id=hoytv
-Hub都会,https://histar.zapi.us.kg/?id=HubECity
-湖北卫视,https://histar.zapi.us.kg/?id=hubei
-Hub Premier 1,https://histar.zapi.us.kg/?id=hubpremier1
-HubPremier2,https://histar.zapi.us.kg/?id=hubpremier2
-HubPremier3,https://histar.zapi.us.kg/?id=hubpremier3
-HubPremier 4,https://histar.zapi.us.kg/?id=hubpremier4
-HubPremier 5,https://histar.zapi.us.kg/?id=hubpremier5
-Hub Sensasi,https://histar.zapi.us.kg/?id=hub-sensasi
-HubSports 1,https://histar.zapi.us.kg/?id=hubsports1
-HubSports2,https://histar.zapi.us.kg/?id=hubsports2
-HubSports3,https://histar.zapi.us.kg/?id=hubsports3
-HubSport4,https://histar.zapi.us.kg/?id=hubsports4
-HubSports Plus,https://histar.zapi.us.kg/?id=hubsports-plus
-Hub娱家,https://histar.zapi.us.kg/?id=HubVVDrama
-湖南卫视,https://histar.zapi.us.kg/?id=hunan
-i-Fun 动漫台,https://histar.zapi.us.kg/?id=i-fun
-J2,https://histar.zapi.us.kg/?id=j2
-劲爆体育,https://histar.zapi.us.kg/?id=jbty
-江苏卫视,https://histar.zapi.us.kg/?id=jiangsu
-江西卫视,https://histar.zapi.us.kg/?id=jiangxi
-吉林卫视,https://histar.zapi.us.kg/?id=jilin
-JSPORTS 1,https://histar.zapi.us.kg/?id=jsports1
-JSPORTS 2,https://histar.zapi.us.kg/?id=jsports2
-JSPORTS 3,https://histar.zapi.us.kg/?id=jsports3
-JSPORTS 4,https://histar.zapi.us.kg/?id=jsports4
-靖天电影台,https://histar.zapi.us.kg/?id=jtdy
-KLT-靖天国际台,https://histar.zapi.us.kg/?id=jtgj
-靖天卡通台,https://histar.zapi.us.kg/?id=jtkt
-靖天日本台,https://histar.zapi.us.kg/?id=jtrb
-靖天戏剧台,https://histar.zapi.us.kg/?id=jtxjt
-靖天映画,https://histar.zapi.us.kg/?id=jtyh
-靖天育乐台,https://histar.zapi.us.kg/?id=jtyl
-靖天综合台,https://histar.zapi.us.kg/?id=jtzh
-靖天资讯台,https://histar.zapi.us.kg/?id=jtzx
-靖洋戏剧台,https://histar.zapi.us.kg/?id=jyxj
-KBS 1,https://histar.zapi.us.kg/?id=kbs-1
-KBS 2,https://histar.zapi.us.kg/?id=kbs-2
-KBS Drama,https://histar.zapi.us.kg/?id=kbs-drama
-KBS Joy,https://histar.zapi.us.kg/?id=kbs-joy
-KBS Kids,https://histar.zapi.us.kg/?id=kbs-kids
-KBS Life,https://histar.zapi.us.kg/?id=kbs-life
-KBS NEWS,https://histar.zapi.us.kg/?id=kbs-news
-KBS Story,https://histar.zapi.us.kg/?id=kbs-story
-KBSWorld,https://histar.zapi.us.kg/?id=kbsworld
-韩国娱乐台 KMTV,https://histar.zapi.us.kg/?id=kmtv
-KTVHD,https://histar.zapi.us.kg/?id=ktvhd
-辽宁卫视,https://histar.zapi.us.kg/?id=liaoning
-Lifetime 娱乐频道,https://histar.zapi.us.kg/?id=lifetime
-LiveABC 互动英语频道,https://histar.zapi.us.kg/?id=liveabc
-辽宁都市,https://histar.zapi.us.kg/?id=lnds
-辽宁体育,https://histar.zapi.us.kg/?id=lnty
-辽宁影视,https://histar.zapi.us.kg/?id=lnys
-澳门莲花卫视,https://histar.zapi.us.kg/?id=lotustv
-Love Nature,https://histar.zapi.us.kg/?id=love-nature
-龙祥电影台,https://histar.zapi.us.kg/?id=lstime
-龙华电影台,https://histar.zapi.us.kg/?id=ltv-movies
-龙华日韩台,https://histar.zapi.us.kg/?id=ltv-rihan
-龙华戏剧台,https://histar.zapi.us.kg/?id=ltv-xiju
-LUXE TV Channel,https://histar.zapi.us.kg/?id=luxe-tv
-澳亚卫视,https://histar.zapi.us.kg/?id=mastv
-Mediacorp Suria,https://histar.zapi.us.kg/?id=mediacorp-suria
-Mediacorp Vasantham,https://histar.zapi.us.kg/?id=mediacorp-vasantham
-美亚电影台,https://histar.zapi.us.kg/?id=meiah-movies
-镜电视新闻台,https://histar.zapi.us.kg/?id=mnews
-MOMO 亲子台,https://histar.zapi.us.kg/?id=momo-kids
-Moonbug,https://histar.zapi.us.kg/?id=moonbug
-车迷TV,https://histar.zapi.us.kg/?id=motorvision
-MovieMovie,https://histar.zapi.us.kg/?id=moviemovie
-澳门卫视,https://histar.zapi.us.kg/?id=mstv
-MTV Live HD 频道,https://histar.zapi.us.kg/?id=mtv
-MTVLive,https://histar.zapi.us.kg/?id=mtvlive
-MyCinema Europe HD,https://histar.zapi.us.kg/?id=mycinema-europe
-myTV SUPER 18,https://histar.zapi.us.kg/?id=mytvsuper-18
-myTV SUPER直播足球1台,https://histar.zapi.us.kg/?id=mytv-super-soccer1
-myTV SUPER直播足球2台,https://histar.zapi.us.kg/?id=mytv-super-soccer2
-myTV SUPER直播足球3台,https://histar.zapi.us.kg/?id=mytv-super-soccer3
-myTV SUPER直播足球4台,https://histar.zapi.us.kg/?id=mytv-super-soccer4
-国家地理,https://histar.zapi.us.kg/?id=natgeo-wild
-NBA,https://histar.zapi.us.kg/?id=nba
-内蒙古卫视,https://histar.zapi.us.kg/?id=neimenggu
-壹新闻 HD,https://histar.zapi.us.kg/?id=nexttv
-NHK Education,https://histar.zapi.us.kg/?id=nhk-e
-NHK General,https://histar.zapi.us.kg/?id=nhk-g
-靖洋卡通 NiceBingo,https://histar.zapi.us.kg/?id=nice-bingo
-尼克儿童频道,https://histar.zapi.us.kg/?id=nickelodeon
-小尼克频道,https://histar.zapi.us.kg/?id=nick-jr
-宁夏卫视,https://histar.zapi.us.kg/?id=ningxia
-日本电视台,https://histar.zapi.us.kg/?id=nippon-tv
-Now 668,https://histar.zapi.us.kg/?id=now-668
-Now 星影台,https://histar.zapi.us.kg/?id=now-baogu-superstars
-Now beIN SPORTS 1,https://histar.zapi.us.kg/?id=now-bein-sports1
-Now beIN SPORTS 2,https://histar.zapi.us.kg/?id=now-bein-sports2
-Now beIN SPORTS 3,https://histar.zapi.us.kg/?id=now-bein-sports3
-Now华剧台,https://histar.zapi.us.kg/?id=now-chinese-drama
-Now报价台,https://histar.zapi.us.kg/?id=now-data
-Now 直播台,https://histar.zapi.us.kg/?id=now-direct
-Now 财经台,https://histar.zapi.us.kg/?id=now-finance
-Now Golf 2,https://histar.zapi.us.kg/?id=now-golf2
-Now Golf 3,https://histar.zapi.us.kg/?id=now-golf3
-HBO Now115,https://histar.zapi.us.kg/?id=Now-HBO
-Now HBO Family,https://histar.zapi.us.kg/?id=now-hbof-amily
-Now HBO Hits,https://histar.zapi.us.kg/?id=now-hbo-hits
-Now HBO Signature,https://histar.zapi.us.kg/?id=now-hbo-signature
-Now jelli紫金国际台,https://histar.zapi.us.kg/?id=now-jelli
-Now Lucky 688 欧洲杯,https://histar.zapi.us.kg/?id=now-lucky-688
-Now NBA,https://histar.zapi.us.kg/?id=now-nba
-Now 新闻台,https://histar.zapi.us.kg/?id=now-news
-Now Sports 1,https://histar.zapi.us.kg/?id=now-sports-1
-Now Sports 2,https://histar.zapi.us.kg/?id=now-sports-2
-Now Sports 3,https://histar.zapi.us.kg/?id=now-sports-3
-Now Sports 4,https://histar.zapi.us.kg/?id=now-sports-4
-Now Sports 5,https://histar.zapi.us.kg/?id=now-sports-5
-Now Sports 6,https://histar.zapi.us.kg/?id=now-sports-6
-Now Sports 618 欧洲杯,https://histar.zapi.us.kg/?id=now-sports-618
-Now Sports 619 欧洲杯,https://histar.zapi.us.kg/?id=now-sports-619
-Now Sports 641,https://histar.zapi.us.kg/?id=now-sports641
-Now Sports 7,https://histar.zapi.us.kg/?id=now-sports-7
-Now Sports Plus,https://histar.zapi.us.kg/?id=now-sports-plus
-Now Sports 英超1,https://histar.zapi.us.kg/?id=now-sports-premier-league1
-Now Sports精选,https://histar.zapi.us.kg/?id=now-sports-prime
-NowViu剧集台,https://histar.zapi.us.kg/?id=now-viu-drama
-OKEY,https://histar.zapi.us.kg/?id=okey
-ONEMalay,https://histar.zapi.us.kg/?id=one-malay
-TVB 明珠台,https://histar.zapi.us.kg/?id=pearl
-凤凰中文,https://histar.zapi.us.kg/?id=phtv-cn
-凤凰香港,https://histar.zapi.us.kg/?id=phtv-hk
-凤凰资讯,https://histar.zapi.us.kg/?id=phtv-info
-PremierSports,https://histar.zapi.us.kg/?id=premiersports
-公视,https://histar.zapi.us.kg/?id=pts
-公视3台,https://histar.zapi.us.kg/?id=pts-3
-公视台语台,https://histar.zapi.us.kg/?id=pts-ty
-青海卫视,https://histar.zapi.us.kg/?id=qinghai
-ROCK Action,https://histar.zapi.us.kg/?id=rock-action
-ROCK Entertainment,https://histar.zapi.us.kg/?id=rock-entertaiment
-滚动力 rollor,https://histar.zapi.us.kg/?id=rollor
-港台电视 31,https://histar.zapi.us.kg/?id=rthk31
-港台电视 32,https://histar.zapi.us.kg/?id=rthk32
-SBN 全球财经台,https://histar.zapi.us.kg/?id=sbn
-SBS,https://histar.zapi.us.kg/?id=sbs
-SBS funE,https://histar.zapi.us.kg/?id=sbs-fune
-SBS M,https://histar.zapi.us.kg/?id=sbs-m
-SBS Plus,https://histar.zapi.us.kg/?id=sbs-plus
-三立都会台,https://histar.zapi.us.kg/?id=settv-city
-三立戏剧台,https://histar.zapi.us.kg/?id=settv-drama
-三立iNews,https://histar.zapi.us.kg/?id=settv-inews
-三立新闻,https://histar.zapi.us.kg/?id=settv-news
-三立台湾台,https://histar.zapi.us.kg/?id=settv-taiwan
-三立综合台,https://histar.zapi.us.kg/?id=settv-zonghe
-陕西卫视,https://histar.zapi.us.kg/?id=shaanxi
-山东卫视,https://histar.zapi.us.kg/?id=shandong
-山西卫视,https://histar.zapi.us.kg/?id=shanxi
-上海都市,https://histar.zapi.us.kg/?id=shds
-深圳卫视,https://histar.zapi.us.kg/?id=shenzhen
-ShowCase,https://histar.zapi.us.kg/?id=showcase
-上海新闻,https://histar.zapi.us.kg/?id=shxw
-四川卫视,https://histar.zapi.us.kg/?id=sichuan
-E乐,https://histar.zapi.us.kg/?id=singtel-tv
-美国中文电视,https://histar.zapi.us.kg/?id=sinovision
-博斯运动-1,https://histar.zapi.us.kg/?id=sportcast1
-博斯运动-2,https://histar.zapi.us.kg/?id=sportcast2
-博斯高球-1,https://histar.zapi.us.kg/?id=sportcast-golf1
-博斯高球-2,https://histar.zapi.us.kg/?id=sportcast-golf2
-博斯魅力,https://histar.zapi.us.kg/?id=sportcast-meili
-博斯网球,https://histar.zapi.us.kg/?id=sportcast-tennis
-博斯无限,https://histar.zapi.us.kg/?id=sportcast-wx
-SPOTV,https://histar.zapi.us.kg/?id=spotv
-SPOTV-2,https://histar.zapi.us.kg/?id=spotv2
-时尚运动 X,https://histar.zapi.us.kg/?id=ssydx
-StarVijay,https://histar.zapi.us.kg/?id=starvijay
-星空卫视,https://histar.zapi.us.kg/?id=star-xing-kong
-SukanRTM,https://histar.zapi.us.kg/?id=sukanrtm
-SunLife,https://histar.zapi.us.kg/?id=sunlife
-SunMusic,https://histar.zapi.us.kg/?id=sunmusic
-SunNews,https://histar.zapi.us.kg/?id=sunnews
-SunTV,https://histar.zapi.us.kg/?id=suntv
-Astro SuperSport,https://histar.zapi.us.kg/?id=super-sports1
-Astro SuperSport 2,https://histar.zapi.us.kg/?id=super-sports2
-Astro SuperSport 3,https://histar.zapi.us.kg/?id=super-sports3
-Astro SuperSport 4,https://histar.zapi.us.kg/?id=super-sports4
-城市电视,https://histar.zapi.us.kg/?id=talentvisiontv
-TBS TV,https://histar.zapi.us.kg/?id=tbs-tv
-澳视澳门,https://histar.zapi.us.kg/?id=tdm
-澳门资讯,https://histar.zapi.us.kg/?id=tdm-information
-Tech Storm,https://histar.zapi.us.kg/?id=tech-storm
-Thrill,https://histar.zapi.us.kg/?id=thrill
-天津卫视,https://histar.zapi.us.kg/?id=tianjin
-天津体育,https://histar.zapi.us.kg/?id=tjty
-TLC 旅游生活頻道,https://histar.zapi.us.kg/?id=tlc
-TRACE Sport Stars,https://histar.zapi.us.kg/?id=trace-sport-stars
-台视,https://histar.zapi.us.kg/?id=ttv
-台视新闻,https://histar.zapi.us.kg/?id=ttv-news
-TV1,https://histar.zapi.us.kg/?id=tv1-my
-TV2,https://histar.zapi.us.kg/?id=tv2-my
-TV3,https://histar.zapi.us.kg/?id=tv3-my
-TV9,https://histar.zapi.us.kg/?id=tv9
-TV Alhijrah,https://histar.zapi.us.kg/?id=tv-alhijrah
-朝日电视台,https://histar.zapi.us.kg/?id=tv-asahi
-TVB娱乐新闻台,https://histar.zapi.us.kg/?id=TVB ylxw
-TVB亚洲剧台,https://histar.zapi.us.kg/?id=tvb-asia-drama
-TVB千禧经典台,https://histar.zapi.us.kg/?id=tvb-classic
-TVB 华语剧台,https://histar.zapi.us.kg/?id=tvb-drama
-TVB Magic,https://histar.zapi.us.kg/?id=tvb-magic
-无线新闻台,https://histar.zapi.us.kg/?id=tvb-news
-TVB PLUS,https://histar.zapi.us.kg/?id=tvb-plus
-TVBS Asia,https://histar.zapi.us.kg/?id=tvbs-asia
-TVBS HD,https://histar.zapi.us.kg/?id=tvbs-hd
-TVBS 欢乐台,https://histar.zapi.us.kg/?id=tvbs-huanle
-TVBS 精采台,https://histar.zapi.us.kg/?id=tvbs-jc
-TVBS 新闻台,https://histar.zapi.us.kg/?id=tvbs-news
-TVBS台剧台,https://histar.zapi.us.kg/?id=tvbs-taiju
-TVBS综艺台,https://histar.zapi.us.kg/?id=tvbs-zongyi
-TVB星河台,https://histar.zapi.us.kg/?id=tvb-xinghe
-TVB粤语片台,https://histar.zapi.us.kg/?id=tvb-yueyu
-tvN,https://histar.zapi.us.kg/?id=tvn
-tvn HD,https://histar.zapi.us.kg/?id=tvnhd
-tvN Movies,https://histar.zapi.us.kg/?id=tvn-movies
-TVS,https://histar.zapi.us.kg/?id=tvs
-东京电视台,https://histar.zapi.us.kg/?id=tv-tokyo
-非凡新闻,https://histar.zapi.us.kg/?id=unique-business-news
-纬来综合,https://histar.zapi.us.kg/?id=videoland
-纬来戏剧,https://histar.zapi.us.kg/?id=videoland-drama
-纬来日本,https://histar.zapi.us.kg/?id=videoland-japan
-纬来电影台,https://histar.zapi.us.kg/?id=videoland-movie
-纬来体育,https://histar.zapi.us.kg/?id=videoland-sport
-ViuTV,https://histar.zapi.us.kg/?id=viutv
-ViuTV6,https://histar.zapi.us.kg/?id=viutv6
-VOA 美国之音,https://histar.zapi.us.kg/?id=voa
-W-Sport,https://histar.zapi.us.kg/?id=w-sport
-WWE,https://histar.zapi.us.kg/?id=wwe
-五星体育,https://histar.zapi.us.kg/?id=wxty
-厦门卫视,https://histar.zapi.us.kg/?id=xiamen
-新疆卫视,https://histar.zapi.us.kg/?id=xinjiang
-西藏卫视,https://histar.zapi.us.kg/?id=xizang
-第一财经,https://histar.zapi.us.kg/?id=yicai
-影迷数位纪实台,https://histar.zapi.us.kg/?id=ymswjst
-云南卫视,https://histar.zapi.us.kg/?id=yunnan
-ZeeCinemaHD,https://histar.zapi.us.kg/?id=zeecinemahd
-ZeeTamil,https://histar.zapi.us.kg/?id=zeetamil
-猪哥亮歌厅秀,https://histar.zapi.us.kg/?id=zglgtx
-浙江卫视,https://histar.zapi.us.kg/?id=zhejiang
-智林体育台,https://histar.zapi.us.kg/?id=zl-sports
-8TV,https://histar.zapi.us.kg/?id=8tv
-ABC News,https://histar.zapi.us.kg/?id=abc-news
-Adithya,https://histar.zapi.us.kg/?id=adithya
-半岛国际新闻台,https://histar.zapi.us.kg/?id=aljazeera
-amc 最爱电影,https://histar.zapi.us.kg/?id=amc-movie
-安徽卫视,https://histar.zapi.us.kg/?id=anhui
-动物星球频道,https://histar.zapi.us.kg/?id=animal-planet
-Animax 卡通,https://histar.zapi.us.kg/?id=animax-cartoon
-Arena Bola,https://histar.zapi.us.kg/?id=arena-bola
-Arena Bola2,https://histar.zapi.us.kg/?id=arena-bola2
-ARIRANG 阿里郎频道,https://histar.zapi.us.kg/?id=arirang
-Asian Food Network,https://histar.zapi.us.kg/?id=asian-food-network
-亚洲旅游台,https://histar.zapi.us.kg/?id=asia-travel
-Astro AEC,https://histar.zapi.us.kg/?id=astro-aec
-Astro AOD 311 国语,https://histar.zapi.us.kg/?id=astro-aod
-Astro AOD 311 粤语,https://histar.zapi.us.kg/?id=astro-aod-311-hk
-Astro Arena 2,https://histar.zapi.us.kg/?id=astro-arena2
-Astro Arena HD,https://histar.zapi.us.kg/?id=astro-arena-hd
-Astro Aura,https://histar.zapi.us.kg/?id=astro-aura
-Astro Awani,https://histar.zapi.us.kg/?id=astro-awani
-Astro Ceria,https://histar.zapi.us.kg/?id=astro-ceria
-Astro Citra,https://histar.zapi.us.kg/?id=astro-citra
-Astro GolfChannel,https://histar.zapi.us.kg/?id=astro-golfchannel
-Astro 欢喜台,https://histar.zapi.us.kg/?id=astro-huaheedai
-Astro 爱奇艺,https://histar.zapi.us.kg/?id=astro-iqiyi
-Astro Oasis,https://histar.zapi.us.kg/?id=astro-oasis
-Astro ONE,https://histar.zapi.us.kg/?id=astro-one
-AstroPremier,https://histar.zapi.us.kg/?id=astropremier
-Astro Prima,https://histar.zapi.us.kg/?id=astro-prima
-Astro QJ,https://histar.zapi.us.kg/?id=astro-quanjia
-Astro Rania,https://histar.zapi.us.kg/?id=astro-rania
-Astro RIA,https://histar.zapi.us.kg/?id=astro-ria
-Astro TUTOR TV,https://histar.zapi.us.kg/?id=astro-tutor-tv
-Astro Vaanavil,https://histar.zapi.us.kg/?id=astro-vaanavil
-Astro Vellithirai,https://histar.zapi.us.kg/?id=astro-vellithirai
-Astro Vinmeen,https://histar.zapi.us.kg/?id=astro-vinmeen
-Astro Warna,https://histar.zapi.us.kg/?id=astro-warna
-AstroWarna Hub版,https://histar.zapi.us.kg/?id=astro-warna-hub
-AwesomeTV,https://histar.zapi.us.kg/?id=awesometv
-AXN,https://histar.zapi.us.kg/?id=axn
-Now 爆谷台,https://histar.zapi.us.kg/?id=baogu-movies
-BBCEarth,https://histar.zapi.us.kg/?id=bbcearth
-BBC World News,https://histar.zapi.us.kg/?id=bbc-world-news
-北京卫视,https://histar.zapi.us.kg/?id=beijing
-beIN Sports,https://histar.zapi.us.kg/?id=beinsports
-beIN Sports 2,https://histar.zapi.us.kg/?id=beinsports2
-beIN Sports 3,https://histar.zapi.us.kg/?id=beinsports3
-BeritaRTM,https://histar.zapi.us.kg/?id=beritartm
-Bernama,https://histar.zapi.us.kg/?id=bernama
-Bloomberg,https://histar.zapi.us.kg/?id=bloomberg
-Boo,https://histar.zapi.us.kg/?id=boo
-Boomerang HD,https://histar.zapi.us.kg/?id=boomerang-hd
-中视菁采台,https://histar.zapi.us.kg/?id=bravo
-采昌影剧台,https://histar.zapi.us.kg/?id=caichang
-天映经典,https://histar.zapi.us.kg/?id=cccm
-
-★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
-北京市鹏博士,#genre#
-CCTV1综合HD,http://124.205.11.246:91/live/CCTV1hd-8M/live.m3u8
-CCTV2财经HD,http://124.205.11.246:91/live/CCTV2hd-8M/live.m3u8
-CCTV3综艺HD,http://124.205.11.246:91/live/CCTV3hd-8M/live.m3u8
-CCTV4中文国际HD,http://124.205.11.246:91/live/CCTV4hd-8M/live.m3u8
-CCTV5体育HD,http://124.205.11.246:91/live/CCTV5hd-8M/live.m3u8
-CCTV5+体育赛事HD,http://124.205.11.246:91/live/CCTV5+hd-8M/live.m3u8
-CCTV6电影HD,http://124.205.11.246:91/live/CCTV6hd-8M/live.m3u8
-CCTV7国防军事HD,http://124.205.11.246:91/live/CCTV7hd-8M/live.m3u8
-CCTV8电视剧HD,http://124.205.11.246:91/live/CCTV8hd-8M/live.m3u8
-CCTV9纪录HD,http://124.205.11.246:91/live/CCTV9hd-8M/live.m3u8
-CCTV10科教HD,http://124.205.11.246:91/live/CCTV10hd-8M/live.m3u8
-CCTV11戏曲HD,http://124.205.11.246:91/live/CCTV11hd-8M/live.m3u8
-CCTV12社会与法HD,http://124.205.11.246:91/live/CCTV12hd-8M/live.m3u8
-CCTV13新闻HD,http://124.205.11.246:91/live/CCTV13hd-8M/live.m3u8
-CCTV14少儿HD,http://124.205.11.246:91/live/CCTV14hd-8M/live.m3u8
-CCTV15音乐HD,http://124.205.11.246:91/live/CCTV15hd-8M/live.m3u8
-CCTV16奥林匹克HD,http://124.205.11.246:91/live/CCTV16hd-8M/live.m3u8
-CCTV17农业农村HD,http://124.205.11.246:91/live/CCTV17hd-8M/live.m3u8
-北京卫视,http://124.205.11.246:91/live/BJWShd-8M/live.m3u8
-天津卫视,http://124.205.11.246:91/live/TJWShd-8M/live.m3u8
-河北卫视,http://124.205.11.246:91/live/HEBhd-8M/live.m3u8
-山西卫视,http://124.205.11.246:91/live/SXWShd-8M/live.m3u8
-内蒙古卫视,http://124.205.11.246:91/live/NMGWShd-8M/live.m3u8
-辽宁卫视,http://124.205.11.246:91/live/LNWShd-8M/live.m3u8
-吉林卫视,http://124.205.11.246:91/live/JLWShd-8M/live.m3u8
-黑龙江卫视,http://124.205.11.246:91/live/HLJWShd-8M/live.m3u8
-东方卫视,http://124.205.11.246:91/live/DFWShd-8M/live.m3u8
-江苏卫视,http://124.205.11.246:91/live/JSWShd-8M/live.m3u8
-浙江卫视,http://124.205.11.246:91/live/ZJWShd-8M/live.m3u8
-安徽卫视,http://124.205.11.246:91/live/AHWShd-8M/live.m3u8
-东南卫视,http://124.205.11.246:91/live/DNWShd-8M/live.m3u8
-江西卫视,http://124.205.11.246:91/live/JXWShd-8M/live.m3u8
-山东卫视,http://124.205.11.246:91/live/SDWShd-8M/live.m3u8
-河南卫视,http://124.205.11.246:91/live/HENANWShd-8M/live.m3u8
-湖北卫视,http://124.205.11.246:91/live/HBWShd-8M/live.m3u8
-湖南卫视,http://124.205.11.246:91/live/HUNANWShd-8M/live.m3u8
-广东卫视,http://124.205.11.246:91/live/GDWShd-8M/live.m3u8
-广西卫视,http://124.205.11.246:91/live/GXWShd-8M/live.m3u8
-海南卫视,http://124.205.11.246:91/live/HANWShd-8M/live.m3u8
-重庆卫视,http://124.205.11.246:91/live/CQWShd-8M/live.m3u8
-四川卫视,http://124.205.11.246:91/live/SCWShd-8M/live.m3u8
-贵州卫视,http://124.205.11.246:91/live/GZWShd-8M/live.m3u8
-云南卫视,http://124.205.11.246:91/live/YNWShd-4M/live.m3u8
-西藏卫视,http://124.205.11.246:91/live/XZWShd-8M/live.m3u8
-陕西卫视,http://124.205.11.246:91/live/SXWShd-8M/live.m3u8
-甘肃卫视,http://124.205.11.246:91/live/GSWShd-8M/live.m3u8
-青海卫视,http://124.205.11.246:91/live/QHWShd-8M/live.m3u8
-宁夏卫视,http://124.205.11.246:91/live/NXWShd-8M/live.m3u8
-新疆卫视,http://124.205.11.246:91/live/XJWShd-8M/live.m3u8
-延边卫视,http://124.205.11.246:91/live/YBWShd-8M/live.m3u8
-海峡卫视,http://124.205.11.246:91/live/HXWShd-8M/live.m3u8
-厦门卫视,http://124.205.11.246:91/live/XMWShd-8M/live.m3u8
-大湾区卫视,http://124.205.11.246:91/live/WQWShd-8M/live.m3u8
-深圳卫视,http://124.205.11.246:91/live/SZWShd-8M/live.m3u8
-★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
-测试,#genre#
-1905电影,http://01e117.netsite.cc/proxy/1747360543/1747360543.m3u8
-CCTV-1,http://01e117.netsite.cc/proxy/1964731068/1964731068.m3u8
-CCTV-2,http://01e117.netsite.cc/proxy/1486446687/1486446687.m3u8
-CCTV-3,http://01e117.netsite.cc/proxy/781829366/781829366.m3u8
-CCTV-4,http://01e117.netsite.cc/proxy/488588922/488588922.m3u8
-CCTV-4k,http://01e117.netsite.cc/proxy/968404657/968404657.m3u8
-CCTV-5,http://01e117.netsite.cc/proxy/1233541493/1233541493.m3u8
-CCTV-5+,http://01e117.netsite.cc/proxy/1327890911/1327890911.m3u8
-CCTV-6,http://01e117.netsite.cc/proxy/1275265590/1275265590.m3u8
-CCTV-7,http://01e117.netsite.cc/proxy/220822188/220822188.m3u8
-CCTV-8,http://01e117.netsite.cc/proxy/366510833/366510833.m3u8
-CCTV-9,http://01e117.netsite.cc/proxy/1618579230/1618579230.m3u8
-CCTV-10,http://01e117.netsite.cc/proxy/1288910059/1288910059.m3u8
-CCTV-11,http://01e117.netsite.cc/proxy/1263246901/1263246901.m3u8
-CCTV-12,http://01e117.netsite.cc/proxy/479563435/479563435.m3u8
-CCTV-13,http://01e117.netsite.cc/proxy/1100148851/1100148851.m3u8
-CCTV-14,http://01e117.netsite.cc/proxy/329783189/329783189.m3u8
-CCTV-15,http://01e117.netsite.cc/proxy/518544399/518544399.m3u8
-CCTV-16,http://01e117.netsite.cc/proxy/1213181202/1213181202.m3u8
-CCTV-17,http://01e117.netsite.cc/proxy/642661480/642661480.m3u8
-CGTN阿拉伯语频道,http://01e117.netsite.cc/proxy/1911119040/1911119040.m3u8
-CGTN俄语频道,http://01e117.netsite.cc/proxy/1081207990/1081207990.m3u8
-CGTN法语频道,http://01e117.netsite.cc/proxy/1237082374/1237082374.m3u8
-CGTN外语记录频道,http://01e117.netsite.cc/proxy/97135501/97135501.m3u8
-CGTN西班牙语频道,http://01e117.netsite.cc/proxy/657032256/657032256.m3u8
-安徽黄山黟县,http://01e117.netsite.cc/proxy/1759244982/1759244982.m3u8
-安徽卫视,http://01e117.netsite.cc/proxy/1817490980/1817490980.m3u8
-北京昌平居庸关长城,http://01e117.netsite.cc/proxy/1214950026/1214950026.m3u8
-北京国际雕塑公园,http://01e117.netsite.cc/proxy/1070308851/1070308851.m3u8
-北京怀柔黄花城水长城,http://01e117.netsite.cc/proxy/1266694830/1266694830.m3u8
-北京密云古北水镇,http://01e117.netsite.cc/proxy/698677872/698677872.m3u8
-北京密云司马台长城,http://01e117.netsite.cc/proxy/771753543/771753543.m3u8
-北京鸟巢和水立方,http://01e117.netsite.cc/proxy/2139720500/2139720500.m3u8
-北京卫视,http://01e117.netsite.cc/proxy/105545939/105545939.m3u8
-茶频道,http://01e117.netsite.cc/proxy/1322311734/1322311734.m3u8
-常德新闻综合频道,http://01e117.netsite.cc/proxy/1299968106/1299968106.m3u8
-常州公共频道,http://01e117.netsite.cc/proxy/1874518057/1874518057.m3u8
-常州生活频道,http://01e117.netsite.cc/proxy/692207623/692207623.m3u8
-常州新闻综合频道,http://01e117.netsite.cc/proxy/1762429386/1762429386.m3u8
-电视剧,http://01e117.netsite.cc/proxy/649200103/649200103.m3u8
-东南卫视,http://01e117.netsite.cc/proxy/969538215/969538215.m3u8
-凤凰卫视,http://01e117.netsite.cc/proxy/1650326537/1650326537.m3u8
-凤凰中文,http://01e117.netsite.cc/proxy/1846789161/1846789161.m3u8
-福建电视剧,http://01e117.netsite.cc/proxy/1180178372/1180178372.m3u8
-福建东南卫视,http://01e117.netsite.cc/proxy/1989099435/1989099435.m3u8
-福建公共频道,http://01e117.netsite.cc/proxy/639164858/639164858.m3u8
-福建海峡卫视,http://01e117.netsite.cc/proxy/1400186150/1400186150.m3u8
-福建经视频道,http://01e117.netsite.cc/proxy/561753807/561753807.m3u8
-福建旅游频道,http://01e117.netsite.cc/proxy/1739179131/1739179131.m3u8
-福建少儿频道,http://01e117.netsite.cc/proxy/253585251/253585251.m3u8
-福建体育频道,http://01e117.netsite.cc/proxy/1771344389/1771344389.m3u8
-福建新闻频道,http://01e117.netsite.cc/proxy/199601741/199601741.m3u8
-福建综合频道,http://01e117.netsite.cc/proxy/269896449/269896449.m3u8
-甘肃都市频道,http://01e117.netsite.cc/proxy/1238488351/1238488351.m3u8
-甘肃公共应急,http://01e117.netsite.cc/proxy/1726841360/1726841360.m3u8
-甘肃经济频道,http://01e117.netsite.cc/proxy/1373372389/1373372389.m3u8
-甘肃少儿频道,http://01e117.netsite.cc/proxy/1645236406/1645236406.m3u8
-甘肃卫视,http://01e117.netsite.cc/proxy/1209404373/1209404373.m3u8
-甘肃文化影视,http://01e117.netsite.cc/proxy/1573084994/1573084994.m3u8
-高邮一套新闻综合频道,http://01e117.netsite.cc/proxy/145384285/145384285.m3u8
-广东卫视,http://01e117.netsite.cc/proxy/1094148202/1094148202.m3u8
-广西卫视,http://01e117.netsite.cc/proxy/1770922842/1770922842.m3u8
-贵州大众生活,http://01e117.netsite.cc/proxy/1102719883/1102719883.m3u8
-贵州公共频道,http://01e117.netsite.cc/proxy/730375068/730375068.m3u8
-贵州科教健康,http://01e117.netsite.cc/proxy/1162947109/1162947109.m3u8
-贵州生态乡村,http://01e117.netsite.cc/proxy/2087588014/2087588014.m3u8
-贵州卫视,http://01e117.netsite.cc/proxy/1478277200/1478277200.m3u8
-贵州卫视,http://01e117.netsite.cc/proxy/1494390345/1494390345.m3u8
-贵州卫视,http://01e117.netsite.cc/proxy/344811278/344811278.m3u8
-贵州移动电视频道,http://01e117.netsite.cc/proxy/1401142653/1401142653.m3u8
-贵州影视文艺,http://01e117.netsite.cc/proxy/277498502/277498502.m3u8
-国际频道,http://01e117.netsite.cc/proxy/1627651873/1627651873.m3u8
-哈萨克语新闻综合频道,http://01e117.netsite.cc/proxy/1017241472/1017241472.m3u8
-哈萨克语综艺频道,http://01e117.netsite.cc/proxy/1914541671/1914541671.m3u8
-海安新闻综合频道,http://01e117.netsite.cc/proxy/1714707715/1714707715.m3u8
-海南卫视,http://01e117.netsite.cc/proxy/1868988087/1868988087.m3u8
-海南卫视,http://01e117.netsite.cc/proxy/2019508840/2019508840.m3u8
-汉语经济生活频道,http://01e117.netsite.cc/proxy/43123930/43123930.m3u8
-汉语体育健康频道,http://01e117.netsite.cc/proxy/161007620/161007620.m3u8
-汉语信息服务频道,http://01e117.netsite.cc/proxy/741753645/741753645.m3u8
-汉语综艺频道,http://01e117.netsite.cc/proxy/261541641/261541641.m3u8
-河北都市,http://01e117.netsite.cc/proxy/1382613512/1382613512.m3u8
-河北公共,http://01e117.netsite.cc/proxy/1380350629/1380350629.m3u8
-河北经济生活,http://01e117.netsite.cc/proxy/839342764/839342764.m3u8
-河北农民频道,http://01e117.netsite.cc/proxy/1382120425/1382120425.m3u8
-河北三佳购物,http://01e117.netsite.cc/proxy/1490274429/1490274429.m3u8
-河北少儿科教,http://01e117.netsite.cc/proxy/177438581/177438581.m3u8
-河北卫视,http://01e117.netsite.cc/proxy/1385861493/1385861493.m3u8
-河北影视剧,http://01e117.netsite.cc/proxy/105462334/105462334.m3u8
-河南电视剧频道,http://01e117.netsite.cc/proxy/493614280/493614280.m3u8
-河南都市频道,http://01e117.netsite.cc/proxy/1492902938/1492902938.m3u8
-河南法制频道,http://01e117.netsite.cc/proxy/1472420660/1472420660.m3u8
-河南公共频道,http://01e117.netsite.cc/proxy/1779518772/1779518772.m3u8
-河南国际频道,http://01e117.netsite.cc/proxy/114531055/114531055.m3u8
-河南欢腾购物频道,http://01e117.netsite.cc/proxy/933026680/933026680.m3u8
-河南梨园频道,http://01e117.netsite.cc/proxy/1836590379/1836590379.m3u8
-河南洛阳新闻综合频道,http://01e117.netsite.cc/proxy/95478034/95478034.m3u8
-河南民生频道,http://01e117.netsite.cc/proxy/1346087362/1346087362.m3u8
-河南晴彩中原频道,http://01e117.netsite.cc/proxy/437233355/437233355.m3u8
-河南卫视,http://01e117.netsite.cc/proxy/1919483832/1919483832.m3u8
-河南文物宝库频道,http://01e117.netsite.cc/proxy/908742171/908742171.m3u8
-河南武术世界,http://01e117.netsite.cc/proxy/503866921/503866921.m3u8
-河南乡村频道,http://01e117.netsite.cc/proxy/1890775902/1890775902.m3u8
-河南新闻频道,http://01e117.netsite.cc/proxy/1692770748/1692770748.m3u8
-河南移动戏曲频道,http://01e117.netsite.cc/proxy/606632094/606632094.m3u8
-黑龙江卫视,http://01e117.netsite.cc/proxy/1993445467/1993445467.m3u8
-黑龙江卫视,http://01e117.netsite.cc/proxy/813712546/813712546.m3u8
-湖北卫视,http://01e117.netsite.cc/proxy/1877417018/1877417018.m3u8
-湖南爱晚,http://01e117.netsite.cc/proxy/1916495164/1916495164.m3u8
-湖南都市,http://01e117.netsite.cc/proxy/1116439121/1116439121.m3u8
-湖南经视,http://01e117.netsite.cc/proxy/1075467511/1075467511.m3u8
-湖南沙洲瑶族村,http://01e117.netsite.cc/proxy/1641373861/1641373861.m3u8
-湖南邵阳崀山风景名胜区,http://01e117.netsite.cc/proxy/2086847518/2086847518.m3u8
-湖南卫视,http://01e117.netsite.cc/proxy/1187608335/1187608335.m3u8
-湖南湘西凤凰古城,http://01e117.netsite.cc/proxy/1244287653/1244287653.m3u8
-湖南娱乐,http://01e117.netsite.cc/proxy/884645401/884645401.m3u8
-湖南张家界大峡谷景区,http://01e117.netsite.cc/proxy/848407143/848407143.m3u8
-湖南张家界天门山景区,http://01e117.netsite.cc/proxy/1114678886/1114678886.m3u8
-湖南张家界武陵源景区,http://01e117.netsite.cc/proxy/762554012/762554012.m3u8
-湖南长沙果园镇田汉文化园,http://01e117.netsite.cc/proxy/1933462135/1933462135.m3u8
-吉林白城新闻综合,http://01e117.netsite.cc/proxy/1773515618/1773515618.m3u8
-吉林白山电视台,http://01e117.netsite.cc/proxy/583838447/583838447.m3u8
-吉林都市频道,http://01e117.netsite.cc/proxy/644013828/644013828.m3u8
-吉林公共频道,http://01e117.netsite.cc/proxy/575056223/575056223.m3u8
-吉林家有购物频道,http://01e117.netsite.cc/proxy/1593753300/1593753300.m3u8
-吉林辽源电视台,http://01e117.netsite.cc/proxy/1873892625/1873892625.m3u8
-吉林生活频道,http://01e117.netsite.cc/proxy/448992852/448992852.m3u8
-吉林四平电视台,http://01e117.netsite.cc/proxy/2096784785/2096784785.m3u8
-吉林松原电视台,http://01e117.netsite.cc/proxy/899644185/899644185.m3u8
-吉林通化电视台,http://01e117.netsite.cc/proxy/254744731/254744731.m3u8
-吉林卫视,http://01e117.netsite.cc/proxy/610385362/610385362.m3u8
-吉林卫视高清,http://01e117.netsite.cc/proxy/1831443675/1831443675.m3u8
-吉林戏曲频道,http://01e117.netsite.cc/proxy/2063310884/2063310884.m3u8
-吉林乡村频道,http://01e117.netsite.cc/proxy/1927078122/1927078122.m3u8
-吉林新闻综合,http://01e117.netsite.cc/proxy/1455835602/1455835602.m3u8
-吉林延边朝鲜语综合,http://01e117.netsite.cc/proxy/127471106/127471106.m3u8
-吉林延边汉语综合,http://01e117.netsite.cc/proxy/461796199/461796199.m3u8
-吉林延边卫视,http://01e117.netsite.cc/proxy/454807708/454807708.m3u8
-吉林影视频道,http://01e117.netsite.cc/proxy/1484332533/1484332533.m3u8
-吉林综艺文化,http://01e117.netsite.cc/proxy/496824256/496824256.m3u8
-江苏南京玄武湖,http://01e117.netsite.cc/proxy/1985889373/1985889373.m3u8
-江苏南京永宁张圩花海,http://01e117.netsite.cc/proxy/25264739/25264739.m3u8
-江苏南京长江大桥,http://01e117.netsite.cc/proxy/1764141811/1764141811.m3u8
-江苏卫视,http://01e117.netsite.cc/proxy/1924965376/1924965376.m3u8
-江苏无锡惠山二茅峰望锡城,http://01e117.netsite.cc/proxy/1877891602/1877891602.m3u8
-江苏徐州之夜,http://01e117.netsite.cc/proxy/391073776/391073776.m3u8
-江西卫视,http://01e117.netsite.cc/proxy/1871199348/1871199348.m3u8
-金鹰纪实,http://01e117.netsite.cc/proxy/46690299/46690299.m3u8
-金鹰卡通,http://01e117.netsite.cc/proxy/1947104640/1947104640.m3u8
-快乐垂钓,http://01e117.netsite.cc/proxy/316113716/316113716.m3u8
-快乐购,http://01e117.netsite.cc/proxy/970312636/970312636.m3u8
-连云港公共频道,http://01e117.netsite.cc/proxy/1479045862/1479045862.m3u8
-连云港新闻综合频道,http://01e117.netsite.cc/proxy/1249456251/1249456251.m3u8
-涟水电视台综合频道,http://01e117.netsite.cc/proxy/1977735434/1977735434.m3u8
-辽宁卫视,http://01e117.netsite.cc/proxy/2131459290/2131459290.m3u8
-咪咕体育,http://01e117.netsite.cc/proxy/1168525477/1168525477.m3u8
-南京白鹭洲公园,http://01e117.netsite.cc/proxy/320590871/320590871.m3u8
-南京百家湖,http://01e117.netsite.cc/proxy/179633244/179633244.m3u8
-南京北极阁,http://01e117.netsite.cc/proxy/188239043/188239043.m3u8
-南京鼓楼广场,http://01e117.netsite.cc/proxy/960879458/960879458.m3u8
-南京黄龙砚,http://01e117.netsite.cc/proxy/169184085/169184085.m3u8
-南京矿坑公园,http://01e117.netsite.cc/proxy/1263482067/1263482067.m3u8
-南京南站,http://01e117.netsite.cc/proxy/2072143452/2072143452.m3u8
-南京栖霞山,http://01e117.netsite.cc/proxy/182710545/182710545.m3u8
-南京情侣园,http://01e117.netsite.cc/proxy/185079179/185079179.m3u8
-南京三汊河,http://01e117.netsite.cc/proxy/189455176/189455176.m3u8
-南京五马渡,http://01e117.netsite.cc/proxy/188955121/188955121.m3u8
-南京新街口,http://01e117.netsite.cc/proxy/183420062/183420062.m3u8
-南京眼,http://01e117.netsite.cc/proxy/1734263806/1734263806.m3u8
-南京长江大桥,http://01e117.netsite.cc/proxy/1033254824/1033254824.m3u8
-南京紫峰眺望,http://01e117.netsite.cc/proxy/1222351744/1222351744.m3u8
-南京紫金山,http://01e117.netsite.cc/proxy/177566095/177566095.m3u8
-内蒙古经济生活,http://01e117.netsite.cc/proxy/1043888416/1043888416.m3u8
-内蒙古蒙古语文化,http://01e117.netsite.cc/proxy/818789140/818789140.m3u8
-内蒙古农牧频道,http://01e117.netsite.cc/proxy/700721138/700721138.m3u8
-内蒙古少儿频道,http://01e117.netsite.cc/proxy/772314677/772314677.m3u8
-内蒙古卫视,http://01e117.netsite.cc/proxy/1149350272/1149350272.m3u8
-内蒙古文化娱乐,http://01e117.netsite.cc/proxy/844409203/844409203.m3u8
-内蒙古新闻综合,http://01e117.netsite.cc/proxy/862381212/862381212.m3u8
-宁夏卫视,http://01e117.netsite.cc/proxy/1558349983/1558349983.m3u8
-沛县新闻综合,http://01e117.netsite.cc/proxy/2058383266/2058383266.m3u8
-青海卫视,http://01e117.netsite.cc/proxy/1152127449/1152127449.m3u8
-三沙卫视,http://01e117.netsite.cc/proxy/1337100319/1337100319.m3u8
-山东卫视,http://01e117.netsite.cc/proxy/1763730718/1763730718.m3u8
-山西卫视,http://01e117.netsite.cc/proxy/825435414/825435414.m3u8
-陕西都市青春,http://01e117.netsite.cc/proxy/391844543/391844543.m3u8
-陕西公共频道,http://01e117.netsite.cc/proxy/1782806707/1782806707.m3u8
-陕西购物,http://01e117.netsite.cc/proxy/1183146985/1183146985.m3u8
-陕西农林,http://01e117.netsite.cc/proxy/1359389546/1359389546.m3u8
-陕西生活频道,http://01e117.netsite.cc/proxy/286895848/286895848.m3u8
-陕西体育休闲,http://01e117.netsite.cc/proxy/742107634/742107634.m3u8
-陕西卫视,http://01e117.netsite.cc/proxy/917851306/917851306.m3u8
-陕西新闻资讯,http://01e117.netsite.cc/proxy/1595881474/1595881474.m3u8
-上海第一财经,http://01e117.netsite.cc/proxy/1946402424/1946402424.m3u8
-上海点掌财经,http://01e117.netsite.cc/proxy/1577752441/1577752441.m3u8
-上海纪实人文,http://01e117.netsite.cc/proxy/1975883896/1975883896.m3u8
-上海南浦大桥,http://01e117.netsite.cc/proxy/1514561649/1514561649.m3u8
-上海外语频道,http://01e117.netsite.cc/proxy/1701776112/1701776112.m3u8
-上海新闻综合,http://01e117.netsite.cc/proxy/1800137038/1800137038.m3u8
-深圳卫视,http://01e117.netsite.cc/proxy/1210483979/1210483979.m3u8
-沭阳综合频道,http://01e117.netsite.cc/proxy/1424907816/1424907816.m3u8
-四川阿坝州黄龙五彩池,http://01e117.netsite.cc/proxy/411064268/411064268.m3u8
-四川阿坝州汶川映秀新城,http://01e117.netsite.cc/proxy/369813965/369813965.m3u8
-四川成都安顺廊桥,http://01e117.netsite.cc/proxy/1937762418/1937762418.m3u8
-四川成都春熙路,http://01e117.netsite.cc/proxy/614090729/614090729.m3u8
-四川成都东安湖体育公园,http://01e117.netsite.cc/proxy/648790008/648790008.m3u8
-四川成都天府熊猫塔,http://01e117.netsite.cc/proxy/1936214178/1936214178.m3u8
-四川甘孜州石渠县,http://01e117.netsite.cc/proxy/682530961/682530961.m3u8
-四川观察,http://01e117.netsite.cc/proxy/2061240764/2061240764.m3u8
-四川乐山市峨眉山风景区,http://01e117.netsite.cc/proxy/1575586364/1575586364.m3u8
-四川邛崃天台山,http://01e117.netsite.cc/proxy/690671060/690671060.m3u8
-四川卫视,http://01e117.netsite.cc/proxy/1727775864/1727775864.m3u8
-四川西昌市邛海景区,http://01e117.netsite.cc/proxy/239112006/239112006.m3u8
-泗洪新闻综合频道,http://01e117.netsite.cc/proxy/39753847/39753847.m3u8
-泗阳资讯频道,http://01e117.netsite.cc/proxy/1545407523/1545407523.m3u8
-泗阳综合频道,http://01e117.netsite.cc/proxy/642523244/642523244.m3u8
-睢宁三农频道,http://01e117.netsite.cc/proxy/1048559039/1048559039.m3u8
-睢宁生活教育频道,http://01e117.netsite.cc/proxy/932971465/932971465.m3u8
-睢宁综合频道,http://01e117.netsite.cc/proxy/791997735/791997735.m3u8
-维吾尔语经济生活频道,http://01e117.netsite.cc/proxy/657274245/657274245.m3u8
-维吾尔语新闻综合频道,http://01e117.netsite.cc/proxy/1972456959/1972456959.m3u8
-维吾尔语影视频道,http://01e117.netsite.cc/proxy/132921121/132921121.m3u8
-无锡都市资讯频道,http://01e117.netsite.cc/proxy/1260824748/1260824748.m3u8
-无锡经济频道,http://01e117.netsite.cc/proxy/326472624/326472624.m3u8
-无锡生活频道,http://01e117.netsite.cc/proxy/995802232/995802232.m3u8
-无锡新闻综合频道,http://01e117.netsite.cc/proxy/1808503557/1808503557.m3u8
-无锡娱乐频道,http://01e117.netsite.cc/proxy/461270403/461270403.m3u8
-西藏拉萨布达拉宫,http://01e117.netsite.cc/proxy/800329695/800329695.m3u8
-西藏林芝米林岷山彩门民宿,http://01e117.netsite.cc/proxy/751076408/751076408.m3u8
-西藏林芝岷山错高民宿,http://01e117.netsite.cc/proxy/680426319/680426319.m3u8
-西藏林芝墨脱县,http://01e117.netsite.cc/proxy/476608588/476608588.m3u8
-西藏日喀则珠穆朗玛峰,http://01e117.netsite.cc/proxy/209923082/209923082.m3u8
-先锋乒羽,http://01e117.netsite.cc/proxy/1789306185/1789306185.m3u8
-新疆兵团卫视,http://01e117.netsite.cc/proxy/1502802665/1502802665.m3u8
-新疆昌吉州天山天池风景区,http://01e117.netsite.cc/proxy/1482666116/1482666116.m3u8
-新疆喀什达瓦昆景区,http://01e117.netsite.cc/proxy/404107611/404107611.m3u8
-新疆少儿频道,http://01e117.netsite.cc/proxy/2128293013/2128293013.m3u8
-新疆卫视,http://01e117.netsite.cc/proxy/1423426614/1423426614.m3u8
-新疆伊犁州蝶湖公园,http://01e117.netsite.cc/proxy/132379804/132379804.m3u8
-扬州城市频道,http://01e117.netsite.cc/proxy/1097047630/1097047630.m3u8
-扬州邗江频道,http://01e117.netsite.cc/proxy/1768394281/1768394281.m3u8
-扬州新闻频道,http://01e117.netsite.cc/proxy/454285884/454285884.m3u8
-云南卫视,http://01e117.netsite.cc/proxy/1057712184/1057712184.m3u8
-长沙女性频道,http://01e117.netsite.cc/proxy/1812024686/1812024686.m3u8
-长沙新闻综合,http://01e117.netsite.cc/proxy/1524274658/1524274658.m3u8
-长沙政法频道,http://01e117.netsite.cc/proxy/298063278/298063278.m3u8
-浙江国际,http://01e117.netsite.cc/proxy/480758982/480758982.m3u8
-浙江杭州千岛湖,http://01e117.netsite.cc/proxy/1683811739/1683811739.m3u8
-浙江好易购,http://01e117.netsite.cc/proxy/2047524408/2047524408.m3u8
-浙江嘉兴乌镇,http://01e117.netsite.cc/proxy/463129046/463129046.m3u8
-浙江教科影视,http://01e117.netsite.cc/proxy/63422608/63422608.m3u8
-浙江教育科技频道,http://01e117.netsite.cc/proxy/1253636999/1253636999.m3u8
-浙江经济生活,http://01e117.netsite.cc/proxy/1957918007/1957918007.m3u8
-浙江民生休闲,http://01e117.netsite.cc/proxy/184155918/184155918.m3u8
-浙江钱江生活,http://01e117.netsite.cc/proxy/1237073829/1237073829.m3u8
-浙江少儿频道,http://01e117.netsite.cc/proxy/761839305/761839305.m3u8
-浙江台州三门核电站,http://01e117.netsite.cc/proxy/1382819378/1382819378.m3u8
-浙江卫视,http://01e117.netsite.cc/proxy/1076829733/1076829733.m3u8
-浙江温州泰顺县廊桥文化园,http://01e117.netsite.cc/proxy/1144314894/1144314894.m3u8
-浙江新闻,http://01e117.netsite.cc/proxy/249206805/249206805.m3u8
-浙江之江记录,http://01e117.netsite.cc/proxy/147568391/147568391.m3u8
-浙江舟山东极岛,http://01e117.netsite.cc/proxy/1973269961/1973269961.m3u8
-浙江舟山嵊泗县中心渔港,http://01e117.netsite.cc/proxy/748822183/748822183.m3u8
-镇江二套社会民生频道,http://01e117.netsite.cc/proxy/1259661680/1259661680.m3u8
-重庆李子坝站,http://01e117.netsite.cc/proxy/1077381778/1077381778.m3u8
-重庆卫视,http://01e117.netsite.cc/proxy/1555601247/1555601247.m3u8
-重庆卫视,http://01e117.netsite.cc/proxy/2064842136/2064842136.m3u8
-重庆巫山长江大桥,http://01e117.netsite.cc/proxy/1215290450/1215290450.m3u8
-重庆巫山长江画卷,http://01e117.netsite.cc/proxy/923062896/923062896.m3u8
-重庆新闻,http://01e117.netsite.cc/proxy/1555453135/1555453135.m3u8
 
 
